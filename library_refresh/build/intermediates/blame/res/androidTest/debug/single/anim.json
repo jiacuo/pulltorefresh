@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\WorkSpace\\AndroidStudioWorkSpace\\StudyWorkSpace\\C\\Pulltorefresh\\library_refresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "H:\\WorkSpace\\AndroidStudioWorkSpace\\StudyWorkSpace\\C\\Pulltorefresh\\library_refresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "H:\\WorkSpace\\AndroidStudioWorkSpace\\StudyWorkSpace\\C\\Pulltorefresh\\library_refresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "H:\\WorkSpace\\AndroidStudioWorkSpace\\StudyWorkSpace\\C\\Pulltorefresh\\library_refresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "H:\\WorkSpace\\AndroidStudioWorkSpace\\StudyWorkSpace\\C\\Pulltorefresh\\library_refresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "H:\\WorkSpace\\AndroidStudioWorkSpace\\StudyWorkSpace\\C\\Pulltorefresh\\library_refresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "H:\\WorkSpace\\AndroidStudioWorkSpace\\StudyWorkSpace\\C\\Pulltorefresh\\library_refresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "H:\\WorkSpace\\AndroidStudioWorkSpace\\StudyWorkSpace\\C\\Pulltorefresh\\library_refresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    }
+]
